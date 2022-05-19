@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/19 15:15:17.135,=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/19 15:15:17.301,=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/19 15:15:57.057,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\MainForm.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/05/19 15:15:57.057,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\MainForm.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/19 15:15:57.057,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\MainForm.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/05/19 15:16:16.485,=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/05/19 15:16:30.270,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\LoginForm.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2022/05/19 15:16:30.270,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\LoginForm.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2022/05/19 15:16:30.270,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\LoginForm.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022/05/19 15:16:42.891,=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2022/05/19 15:16:55.215,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\RegistrationForm.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2022/05/19 15:16:55.215,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\RegistrationForm.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2022/05/19 15:16:55.215,C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\RegistrationForm.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>2022/05/19 22:20:14.539,D:\C++ уроци\C++\Build GUI app\Registration and Login\LoginForm.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\LoginForm.h</Transaction>
+    <Transaction>2022/05/19 22:20:14.539,D:\C++ уроци\C++\Build GUI app\Registration and Login\LoginForm.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\LoginForm.fmx</Transaction>
+    <Transaction>2022/05/19 22:20:14.539,D:\C++ уроци\C++\Build GUI app\Registration and Login\LoginForm.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\LoginForm.cpp</Transaction>
+    <Transaction>2022/05/19 22:20:21.508,D:\C++ уроци\C++\Build GUI app\Registration and Login\RegistrationForm.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\RegistrationForm.h</Transaction>
+    <Transaction>2022/05/19 22:20:21.508,D:\C++ уроци\C++\Build GUI app\Registration and Login\RegistrationForm.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\RegistrationForm.fmx</Transaction>
+    <Transaction>2022/05/19 22:20:21.508,D:\C++ уроци\C++\Build GUI app\Registration and Login\RegistrationForm.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\RegistrationForm.cpp</Transaction>
+    <Transaction>2022/05/19 22:20:24.623,D:\C++ уроци\C++\Build GUI app\Registration and Login\MainForm.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\MainForm.cpp</Transaction>
+    <Transaction>2022/05/19 22:20:24.623,D:\C++ уроци\C++\Build GUI app\Registration and Login\MainForm.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\MainForm.h</Transaction>
+    <Transaction>2022/05/19 22:20:24.623,D:\C++ уроци\C++\Build GUI app\Registration and Login\MainForm.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\MainForm.fmx</Transaction>
+    <Transaction>2022/05/19 22:20:27.392,D:\C++ уроци\C++\Build GUI app\Registration and Login\Project1PCH1.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/19 22:20:29.502,D:\C++ уроци\C++\Build GUI app\Registration and Login\Project1.cbproj=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

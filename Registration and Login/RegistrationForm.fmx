@@ -1,0 +1,81 @@
+object MyRegistrationForm: TMyRegistrationForm
+  Left = 0
+  Top = 0
+  Caption = 'Registration'
+  ClientHeight = 444
+  ClientWidth = 468
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object nameEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 8
+    Position.X = 168.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 46.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label1: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 88.000000000000000000
+    Text = 'Name'
+    TabOrder = 10
+  end
+  object ageEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 6
+    Position.X = 168.000000000000000000
+    Position.Y = 144.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 46.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label2: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 160.000000000000000000
+    Text = 'Age:'
+    TabOrder = 7
+  end
+  object usernameEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 4
+    Position.X = 168.000000000000000000
+    Position.Y = 216.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 46.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label3: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 232.000000000000000000
+    Text = 'Username:'
+    TabOrder = 5
+  end
+  object passwordEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 0
+    Position.X = 168.000000000000000000
+    Position.Y = 288.000000000000000000
+    Size.Width = 169.000000000000000000
+    Size.Height = 46.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Label4: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 304.000000000000000000
+    Text = 'Password:'
+    TabOrder = 2
+  end
+  object saveButton: TButton
+    Position.X = 192.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Width = 105.000000000000000000
+    Size.Height = 38.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 9
+    Text = 'Save'
+    OnClick = saveButtonClick
+  end
+end
