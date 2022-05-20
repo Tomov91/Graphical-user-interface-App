@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/05/19 11:44:40.643,=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/19 11:44:41.524,=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/19 12:18:02.947,D:\C++ уроци\C++\Build GUI app\Task List\Unit1.cpp=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/05/19 12:18:02.947,D:\C++ уроци\C++\Build GUI app\Task List\Unit1.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/05/19 12:18:02.947,D:\C++ уроци\C++\Build GUI app\Task List\Unit1.fmx=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/05/19 12:18:10.523,D:\C++ уроци\C++\Build GUI app\Task List\Project1PCH1.h=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/05/19 12:18:15.655,D:\C++ уроци\C++\Build GUI app\Task List\Project1.cbproj=C:\Users\Tomi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
